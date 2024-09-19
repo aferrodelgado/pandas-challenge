@@ -2,6 +2,30 @@
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
+# PyCity Schools Analysis
+
+**Highest Performing Schools versus Bottom Performing Schools**
+
+Only Charter Schools made the top five of highest performing schools with an Overall Passing percentage averaging around 90%. Only District Schools were included in the bottom performing schools with an Overall Passing percentage averaging around 53%. 
+There appears to be a greater disparity between the percentage of students passing math (about 27% difference) than the percentage of students passing reading (about 17% difference) when comparing the highest performing and bottom performing schools.
+
+**Math and Reading Scores by Grade**
+There doesn’t seem to be as much of a difference looking at scores by grade, so much as by school. Grades remain consistent between grades, within the given school.
+
+**Scores by School Spending**
+The spending ranges per student doesn’t appear to have any positive impact on student scores. If anything, the least spent per student still resulted in the highest score and the most spent per student yielded the lowest score. It might be useful to investigate how these resources are being spent and allocated.
+
+**Scores by School Size**
+Small (<1000) to Medium(1000-2000) sized schools produced similar grade averages, with an overall passing percent at about 90%. The large schools (2000-5000) saw a significant decrease in % passing math and an overall passing percent at about 58%.
+
+**Scores by School Type**
+Charter schools greatly outperformed District Schools in both % Passing in Math (by 33%)  and % Overall Passing (by 37%).
+
+**Conculsion**
+In looking at the differences between school types and school size, we see the greatest difference in student performance. With Charter schools versus District schools, there are likely factors related to curriculum, administration, and funding that could all impact this outcome. However, as it relates to funding, we see that larger schools are performing poorer than small to medium sized schools, though funded at a higher rate. This leads us to question how money at these larger schools are being allocated and whether or not there are enough staff / support for the number of students in attendance.
+
+# Jupyter Notebook
+
 **District Summary**
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
