@@ -24,6 +24,8 @@ Charter schools greatly outperformed District Schools in both % Passing in Math 
 **Conculsion**
 In looking at the differences between school types and school size, we see the greatest difference in student performance. With Charter schools versus District schools, there are likely factors related to curriculum, administration, and funding that could all impact this outcome. However, as it relates to funding, we see that larger schools are performing poorer than small to medium sized schools, though funded at a higher rate. This leads us to question how money at these larger schools are being allocated and whether or not there are enough staff / support for the number of students in attendance.
 
+![education](https://github.com/user-attachments/assets/29eb1bf8-b625-48b3-8885-78df01e26e87)
+
 # Jupyter Notebook
 
 **District Summary**
